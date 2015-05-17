@@ -7,7 +7,8 @@ The solution is splitted in two projects: ArmEdgeRobotCom library that uses USB 
 
 # Dependencies
 
-LibUsbDotNet - [http://sourceforge.net/projects/libusbdotnet/](http://sourceforge.net/projects/libusbdotnet/)
+LibUsbDotNet - [http://sourceforge.net/projects/libusbdotnet/]
+(http://sourceforge.net/projects/libusbdotnet/)
 Json.Net - [http://www.newtonsoft.com/json](http://www.newtonsoft.com/json)
 Kinect for Windows SDK v1.0 - [http://www.microsoft.com/en-us/download/details.aspx?id=28782](http://www.microsoft.com/en-us/download/details.aspx?id=28782)
 
