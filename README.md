@@ -27,4 +27,4 @@ Kinect for Windows SDK v1.0 - [http://www.microsoft.com/en-us/download/details.a
         To close the gripper, join the hands.
         To open the gripper, separate the hands.
         To stop, elevate the hands at the same level near the chest.
-    More details watch at [youtube](https://youtu.be/NEh17PsNnd0).
+    More details watch at [youtube](http://youtu.be/NEh17PsNnd0).
