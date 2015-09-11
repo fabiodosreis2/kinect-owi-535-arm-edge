@@ -1,5 +1,5 @@
 # kinect-owi-535-arm-edge
-C# program that controls [owi-535 robot](http://www.owirobots.com/store/catalog/robotic-arm-kits-and-accessories/owi-535pc-robotic-arm-kit-with-usb-pc-interface-138.html) by [Kinect sensor]((http://www.xbox.com/en-US/xbox-360/accessories/kinect)) gestures. Warning: This was a scratch for a homework at university so take careful :)
+C# program that controls [owi-535 robot](http://www.owirobots.com/store/catalog/robotic-arm-kits-and-accessories/owi-535pc-robotic-arm-kit-with-usb-pc-interface-138.html) by [Kinect sensor]((http://www.xbox.com/en-US/xbox-360/accessories/kinect)) gestures. Warning: This was a scratch for a project at university so take careful :)
 
 # Getting Started
 
